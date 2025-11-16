@@ -6,3 +6,8 @@ this dara us we are adding the scroput
   adding info 
 
   this data 
+code
+  enter 
+  this 
+  is 
+  pateern
