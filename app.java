@@ -11,8 +11,4 @@ code
   this 
   is 
   pateern
-  this data is added
-  calculated
-data
-  commit changes
-new commit
+ 
