@@ -11,3 +11,5 @@ code
   this 
   is 
   pateern
+  this data is added
+  calculated
